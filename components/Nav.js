@@ -28,7 +28,7 @@ export default function Nav() {
                             Post
                         </button>
                     </Link>
-                    <h1>Git Testing </h1>
+                   
                     <Link href="/dashboard">
                     <img
                         className="w-12 rounded-full cursor-pointer"
